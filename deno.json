@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@std/assert": "jsr:@std/assert@^1.0.8",
+    "jest": "npm:jest@^29.7.0"
+  }
+}
